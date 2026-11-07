@@ -1,0 +1,26 @@
+﻿id_prueba;nombre;apellido;rut;correo;region;comuna;fecha_registro;monto_clp
+DEMO-000001;Fernanda;Ortiz;57.994.000-K;fernanda.ortiz0001@ejemplo.test;Atacama;Copiapó;2025-05-11;3753300
+DEMO-000002;Sofía;Silva;86.763.004-K;sofia.silva0002@ejemplo.test;Magallanes;Puerto Natales;2024-05-06;17600
+DEMO-000003;Benjamín;Castillo;91.218.551-6;benjamin.castillo0003@ejemplo.test;Ñuble;Chillán;2025-07-09;76200
+DEMO-000004;Javiera;Salazar;95.981.521-6;javiera.salazar0004@ejemplo.test;Biobío;Concepción;2025-03-24;1649300
+DEMO-000005;Vicente;Jara;73.330.923-7;vicente.jara0005@ejemplo.test;Los Ríos;Valdivia;2024-11-28;588600
+DEMO-000006;Josefa;González;87.409.872-8;josefa.gonzalez0006@ejemplo.test;Ñuble;San Carlos;2023-10-16;4226700
+DEMO-000007;Nicolás;Pérez;97.242.998-8;nicolas.perez0007@ejemplo.test;Ñuble;Chillán;2025-01-25;2383500
+DEMO-000008;Ignacio;Cáceres;80.942.053-1;ignacio.caceres0008@ejemplo.test;Los Ríos;La Unión;2023-08-27;2789100
+DEMO-000009;Sebastián;Soto;83.981.160-8;sebastian.soto0009@ejemplo.test;Magallanes;Puerto Natales;2025-12-10;1696000
+DEMO-000010;Juan;Vega;78.183.451-3;juan.vega0010@ejemplo.test;Magallanes;Punta Arenas;2024-04-04;846400
+DEMO-000011;Nicolás;Ortiz;53.280.798-0;nicolas.ortiz0011@ejemplo.test;Atacama;Caldera;2025-05-29;3081400
+DEMO-000012;Javiera;Vargas;59.557.144-8;javiera.vargas0012@ejemplo.test;O'Higgins;Rancagua;2025-07-24;4420100
+DEMO-000013;Nicolás;Vega;81.501.305-0;nicolas.vega0013@ejemplo.test;Maule;Linares;2025-04-03;4390200
+DEMO-000014;Josefa;Tapia;70.644.517-K;josefa.tapia0014@ejemplo.test;Magallanes;Puerto Natales;2025-06-05;1328300
+DEMO-000015;Sofía;Fuentes;69.755.114-K;sofia.fuentes0015@ejemplo.test;Arica y Parinacota;Arica;2023-11-03;4297800
+DEMO-000016;Isidora;Tapia;90.082.326-6;isidora.tapia0016@ejemplo.test;Magallanes;Puerto Natales;2024-02-14;1705600
+DEMO-000017;Javiera;Muñoz;96.482.815-6;javiera.munoz0017@ejemplo.test;Magallanes;Puerto Natales;2023-03-10;1901900
+DEMO-000018;Isidora;Vega;71.250.498-6;isidora.vega0018@ejemplo.test;Atacama;Vallenar;2025-11-21;1697200
+DEMO-000019;Vicente;Cortés;80.394.993-K;vicente.cortes0019@ejemplo.test;Los Lagos;Castro;2025-09-08;422300
+DEMO-000020;Emilia;Vargas;93.523.335-6;emilia.vargas0020@ejemplo.test;Magallanes;Puerto Natales;2023-07-17;1276200
+DEMO-000021;Cristóbal;Muñoz;77.602.603-4;cristobal.munoz0021@ejemplo.test;Arica y Parinacota;Arica;2023-01-01;2958100
+DEMO-000022;Josefa;Vega;88.966.090-2;josefa.vega0022@ejemplo.test;Antofagasta;Tocopilla;2024-02-12;1625200
+DEMO-000023;Maite;Bravo;58.108.019-0;maite.bravo0023@ejemplo.test;Maule;Linares;2025-01-01;1015200
+DEMO-000024;Fernanda;Salazar;50.344.342-2;fernanda.salazar0024@ejemplo.test;Magallanes;Punta Arenas;2024-04-01;3100700
+DEMO-000025;Cristóbal;Rojas;89.455.617-K;cristobal.rojas0025@ejemplo.test;Ñuble;Chillán;2025-05-05;4382400
